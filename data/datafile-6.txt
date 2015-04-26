@@ -1,0 +1,5 @@
+Product:	HP HP 146GB 3G SAS 15K rpm 2.5-inch Dual Port Enterprise Hard Disk Drive (504062-B21)	(hp_504062-b21)
+Description:	Serial Attached SCSI (SAS) provides a superior storage solution. With some storage requirements escalating and others becoming more complex, factors such as flexibility, performance, increased reliability, greater density, security, scalability and accessibility are more critical than ever. Today's organizations consist of different kinds of environments. Enterprise data centers must be online almost 24X7, fulfill requests from numerous users simultaneously, and allow for constant growth and expansion while in operation. Other customer environments require high capacity storage and high data availability for low I/O environments. HP's portfolio of SAS drives meets all these demands.
+Price:		EUR 145.20
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2F504062-b21-art-504062-b21-num-100874%2F

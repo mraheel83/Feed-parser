@@ -1,0 +1,5 @@
+Product:	HP SPS-HDD 80GB 5400RPM SATA 1.8 (501490-001)	(hp_501490-001)
+Description:	- As part of its commitment to hardware, software, and solution innovation, HP is proud to introduce this breakthrough platform configuration stability to HP Workstation customers. HP Stable & Consistent Offerings are built on the foundation of a carefully chosen set of hardware and software designed and tested to work with all HP Workstation platforms through their end of life.
+Price:		EUR 417.45
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2Fsps-hdd-80gb-5400rpm-sata-18-art-501490-001-num-4319935%2F

@@ -1,0 +1,6 @@
+Product:	HP Harddisk 160GB HP/Compaq 7.2K 3,5&quot; (504336-001-RFB)	(hp_504336-001-rfb)
+Description:	- As part of its commitment to hardware, software, and solution innovation, HP is proud to introduce this breakthrough platform configuration stability to HP Workstation customers. HP Stable & Consistent Offerings are built on the foundation of a carefully chosen set of hardware and software designed and tested to work with all HP Workstation platforms through their end of life.
+- 7200 rpm drives offer very good performance and the highest available capacities.
+Price:		EUR 139.15
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2F160gb-sata-7200rpm-35-8mb-refurbished-refurbished-art-504336-001-rfb-num-4360887%2F

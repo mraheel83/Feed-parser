@@ -1,0 +1,5 @@
+Product:	HP 300GB SATA SQ SFF (502599-001)	(hp_502599-001)
+Description:	SPS DRV 300G,SATA300SQ,10K,WS
+Price:		EUR 511.83
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2F300gb-sata-sq-sff-art-502599-001-num-100647%2F

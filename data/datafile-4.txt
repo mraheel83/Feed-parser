@@ -1,0 +1,5 @@
+Product:	HP Hard drive 500GB (501911-001)	(hp_501911-001)
+Description:	Hard drive 500GB
+Price:		EUR 139.15
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2Fhard-drive-500gb-art-501911-001-num-100540%2F

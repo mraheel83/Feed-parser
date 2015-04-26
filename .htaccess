@@ -1,0 +1,7 @@
+# Submit all request on index.php to make a single entry point for application
+<ifModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*) index.php?path=$1    [QSA,L]
+</ifModule>

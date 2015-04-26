@@ -1,0 +1,6 @@
+Product:	HP 300GB SAS 15000RPM (499229-001)	(hp_499229-001)
+Description:	- As part of its commitment to hardware, software, and solution innovation, HP is proud to introduce this breakthrough platform configuration stability to HP Workstation customers. HP Stable & Consistent Offerings are built on the foundation of a carefully chosen set of hardware and software designed and tested to work with all HP Workstation platforms through their end of life.
+- SAS (Serial Attach SCSI) is a high performance architecture designed for high performance servers. 15K rpm SAS drives spin faster than 10k drives and are available with 6Gb/s (Gigabit/sec) transfer rates* offering even more performance than 10K rpm drives. SAS drives require an available SAS storage controller. Note: 15K rpm drives may be audibly noticeable.
+Price:		EUR 490.05
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2F300gb-sas-15000rpm-art-499229-001-num-95261%2F

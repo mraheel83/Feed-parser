@@ -1,0 +1,5 @@
+Product:	HP 146GB 15K 2.5&quot; SAS 3Gb/s (504334-001)	(hp_504334-001)
+Description:	146GB hot-swap dual-port Serial Attached SCSI (SAS) hard drive - 15,000 RPM, 3Gb/sec transfer rate, 2.5-inch Small Form Factor (SFF)
+Price:		EUR 153.67
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2F146gb-15k-25-sas-3gb-s-art-504334-001-num-100917%2F

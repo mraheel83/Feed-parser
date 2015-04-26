@@ -1,0 +1,5 @@
+Product:	HP Harddisk 146GB HP/Compaq 15K SAS (504062-B21-RFB)	(hp_504062-b21-rfb)
+Description:	Harddisk 146GB HP/Compaq 15K SAS
+Price:		EUR 147.62
+Categories:	interne harde schijven 
+URL:		http://www.centralpoint.nl/tracker/index.php?tt=534_251713_1_&amp;r=http%3A%2F%2Fwww.centralpoint.nl%2Finterne-harde-schijven%2Fhp%2F146gb-15krpm-sas-3gb-s-art-504062-b21-rfb-num-2110383%2F
